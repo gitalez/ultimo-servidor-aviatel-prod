@@ -1,0 +1,53 @@
+{
+    "appPage": [
+        {
+            "title": "Opciones",
+            "url": "/app/categories",
+            "icon": "./assets/sample-icons/side-menu/categories.svg"
+        },
+        {
+            "title": "ir a aviatel.com",
+            "url": "/app/aviatel",
+            "icon": "./assets/sample-icons/side-menu/getting-started.svg"
+        },
+        {
+            "title": "Notificationes",
+            "url": "/app/notifications",
+            "icon": "./assets/sample-icons/side-menu/notifications.svg"
+        }
+    ],
+    "workPage": [
+        {
+            "title": "Scan ble",
+            "url": "/app/ble",
+            "icon": "./assets/sample-icons/tabs/bluetooth.svg"
+        },
+        {
+            "title": "Config",
+            "url": "/app/config",
+            "con": "./assets/sample-icons/side-menu/_ionicons_svg_ios-settings.svg"
+        }
+    ],
+    "accountPages": [
+        {
+            "title": "Perfil",
+            "url": "/app/user/profile",
+            "icon": "./assets/sample-icons/side-menu/profile.svg"
+        },
+        {
+            "title": "cambiar mi contraseña",
+            "url": "/app/user/change-pass",
+            "icon": "./assets/sample-icons/side-menu/_ionicons_svg_ios-key.svg"
+        },
+        {
+            "title": "ver Tutorial",
+            "url": "/app/tutorial",
+            "icon": "./assets/sample-icons/side-menu/tutorial.svg"
+        },
+        {
+            "title": "cerrar sesion",
+            "url": "/app/user/logout",
+            "icon": "./assets/sample-icons/side-menu/_ionicons_svg_ios-log-out.svg"
+        }
+    ]
+}

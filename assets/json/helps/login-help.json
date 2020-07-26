@@ -1,0 +1,46 @@
+{
+    "ayuda": [
+        {
+            "titulo": "Ingreso",
+            "subtitulo": "como ingresar al sistema",
+            "parrafo": "jfghdfdfgdfgdf"
+        },
+        {
+            "titulo": "Email",
+            "subtitulo": "como es el mail",
+            "parrafo": "dgfdffdgdfgdfg"
+        },
+        {
+            "titulo": "password",
+            "subtitulo": "como es el password",
+            "parrafo": "dgfdffdgdfgdfg"
+        },
+        {
+            "titulo": "confirme si tiene internet",
+            "subtitulo": "nuestro server",
+            "parrafo": "dgfdffdgdfgdfg"
+        },
+        {
+            "titulo": "",
+            "subtitulo": "",
+            "parrafo": ""
+        },
+        {
+            "titulo": "",
+            "subtitulo": "",
+            "parrafo": ""
+        },
+        {
+            "vinietas": [
+                {
+                    "titulo": "tenga en cuenta",
+                    "vinieta1": "no se olvide del password",
+                    "vinieta2": "no se olvide del mail",
+                    "vineta3": "",
+                    "vineta4": "",
+                    "vineta5": ""
+                }
+            ]
+        }
+    ]
+}

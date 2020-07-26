@@ -1,0 +1,46 @@
+{
+    "ayuda": [
+        {
+            "titulo": "contraseña",
+            "subtitulo": "olvido su contraseña",
+            "parrafo": "jfghdfdfgdfgdf"
+        },
+        {
+            "titulo": "caracters ",
+            "subtitulo": "mas de 6",
+            "parrafo": "dgfdffdgdfgdfg"
+        },
+        {
+            "titulo": "repeticion",
+            "subtitulo": "por seguridad",
+            "parrafo": "dgfdffdgdfgdfg"
+        },
+        {
+            "titulo": "no haga logout ",
+            "subtitulo": "porque",
+            "parrafo": "dgfdffdgdfgdfg"
+        },
+        {
+            "titulo": "",
+            "subtitulo": "",
+            "parrafo": ""
+        },
+        {
+            "titulo": "",
+            "subtitulo": "",
+            "parrafo": ""
+        },
+        {
+            "vinietas": [
+                {
+                    "titulo": "tenga en cuenta",
+                    "vinieta1": "no  oldide la contraseña",
+                    "vinieta2": "es recomnedable ",
+                    "vineta3": "cualquier probleam haga logout y luego login ",
+                    "vineta4": "",
+                    "vineta5": ""
+                }
+            ]
+        }
+    ]
+}

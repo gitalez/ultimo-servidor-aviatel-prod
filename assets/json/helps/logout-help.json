@@ -1,0 +1,46 @@
+{
+    "ayuda": [
+        {
+            "titulo": "Egreso",
+            "subtitulo": "como ingresar al sistema",
+            "parrafo": "jfghdfdfgdfgdf"
+        },
+        {
+            "titulo": "cierre ",
+            "subtitulo": "como es el mail",
+            "parrafo": "dgfdffdgdfgdfg"
+        },
+        {
+            "titulo": "notificaciones",
+            "subtitulo": "como es el password",
+            "parrafo": "dgfdffdgdfgdfg"
+        },
+        {
+            "titulo": "no conviene cerrar ",
+            "subtitulo": "nuestro server",
+            "parrafo": "dgfdffdgdfgdfg"
+        },
+        {
+            "titulo": "",
+            "subtitulo": "",
+            "parrafo": ""
+        },
+        {
+            "titulo": "",
+            "subtitulo": "",
+            "parrafo": ""
+        },
+        {
+            "vinietas": [
+                {
+                    "titulo": "tenga en cuenta",
+                    "vinieta1": "no se olvide de las notificaciones",
+                    "vinieta2": "no se olvide de ingresar de nuevo ",
+                    "vineta3": "cualquier probleam haga logout y luego login ",
+                    "vineta4": "",
+                    "vineta5": ""
+                }
+            ]
+        }
+    ]
+}
